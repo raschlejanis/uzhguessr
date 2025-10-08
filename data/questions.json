@@ -1,32 +1,28 @@
 [
   {
     "id": 1,
-    "image": "images/eiffel.jpg",
-    "answer": "Eiffel Tower"
+    "image": "BotanischerGarten.jpg",
+    "answer": "Botanischer Garten"
   },
   {
     "id": 2,
-    "image": "images/sushi.jpg",
-    "answer": "Sushi"
+    "image": "Hauptgebäude.jpg",
+    "answer": "UZH Hauptgebäude"
   },
   {
     "id": 3,
-    "image": "images/pyramids.jpg",
-    "answer": "Pyramids of Giza"
+    "image": "UBErziehungswissenschaften.jpg",
+    "answer": "UB Erziehungswissenschaften"
   },
   {
     "id": 4,
-    "image": "images/koala.jpg",
-    "answer": "Koala"
+    "image": "Careum.jpg",
+    "answer": "Careum"
   },
   {
     "id": 5,
-    "image": "images/football.jpg",
-    "answer": "Football"
-  },
-  {
-    "id": 6,
-    "image": "images/tajmahal.jpg",
-    "answer": "Taj Mahal"
+    "image": "UBBetriebswirtschaftslehre.jpg",
+    "answer": "UB Betriebswirtschaftslehre"
   }
+
 ]

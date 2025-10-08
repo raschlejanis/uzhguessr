@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "image": "images/eiffel.jpg",
+    "answer": "Eiffel Tower"
+  },
+  {
+    "id": 2,
+    "image": "images/sushi.jpg",
+    "answer": "Sushi"
+  },
+  {
+    "id": 3,
+    "image": "images/pyramids.jpg",
+    "answer": "Pyramids of Giza"
+  },
+  {
+    "id": 4,
+    "image": "images/koala.jpg",
+    "answer": "Koala"
+  },
+  {
+    "id": 5,
+    "image": "images/football.jpg",
+    "answer": "Football"
+  },
+  {
+    "id": 6,
+    "image": "images/tajmahal.jpg",
+    "answer": "Taj Mahal"
+  }
+]
